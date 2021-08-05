@@ -1,3 +1,4 @@
+import json
 from datetime import datetime
 import os
 import os.path
@@ -12,6 +13,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 
+
+ALL_FILES = {}
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = [
@@ -76,8 +79,10 @@ def migrate(folder_path, drive_client, gdrive_folder_id="root"):
                 gdrive_folder_id=response.get("id"),
             )
         for fil in files:
-            upload_file(drive_client, os.path.join(path, fil), gdrive_folder_id)
-
+            abs_file_path = os.path.join(path, fil)
+            file_id = upload_file(drive_client, abs_file_path, gdrive_folder_id)
+            file_path = os.path.relpath(abs_file_path, CAPTURE_DIR)
+            ALL_FILES[file_path] = file_id
         break
 
 
@@ -137,6 +142,9 @@ def main():
     print("Uploading folder...")
     migrate(CAPTURE_DIR, drive_client, gdrive_folder_id=new_upload_folder_id)
     print("Upload successful")
+
+    with open("gdrive_file_ids.json", "w", encoding="utf-8") as f:
+        json.dump(ALL_FILES, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":
