@@ -1,21 +1,88 @@
-from __future__ import print_function
+from datetime import datetime
+import os
 import os.path
+import copy
+import time
+
+from googleapiclient.http import MediaFileUpload
+from generate_thumbnails import CAPTURE_DIR
+from mimetypes import MimeTypes
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
-from googleapiclient.http import MediaFileUpload
-import os
-from datetime import datetime
+
 
 # If modifying these scopes, delete the file token.json.
-SCOPES = ["https://www.googleapis.com/auth/drive.metadata.readonly"]
+SCOPES = [
+    "https://www.googleapis.com/auth/drive.metadata.readonly",
+    "https://www.googleapis.com/auth/drive.file",
+]
+
+
+FOLDER_KWARGS = {
+    "body": {"name": "", "mimeType": "application/vnd.google-apps.folder"},
+    "fields": "id",
+}
+
+
+def upload_file(drive_client, file_path, parent_id):
+    try:
+        file_name = os.path.basename(file_path)
+        mimetype = MimeTypes().guess_type(file_name)[0]
+
+        file_metadata = {"name": file_name}
+
+        if parent_id is not None:
+            file_metadata["parents"] = [parent_id]
+
+        media = MediaFileUpload(file_path, mimetype=mimetype, resumable=True)
+
+        file = drive_client.create(
+            body=file_metadata, media_body=media, fields="id"
+        ).execute()
+
+        file_id = file.get("id")
+        print(
+            "\t -> File {0} uploaded successfully! ID: {1}".format(file_name, file_id)
+        )
+        return file_id
+    except Exception as e:
+        raise Exception(e)
+
+
+def migrate(folder_path, drive_client, gdrive_folder_id="root"):
+
+    """
+        a method to save a posix file tree to google drive
+
+    :param folder_path: string with path to local file
+    :param service: Googledrive service, from googleapiclient.
+    :param gdrive_folder_id: the google drive folder id of where to upload
+    :return: string with id of file on google drive
+    """
+
+    # Auto-iterate through all files in the folder.
+    for path, folders, files in os.walk(folder_path):
+        for folder in folders:
+            print("Working on", os.path.join(path, folder))
+            new_folder_kwargs = copy.deepcopy(FOLDER_KWARGS)
+            new_folder_kwargs["body"]["parents"] = [gdrive_folder_id]
+            new_folder_kwargs["body"]["name"] = folder
+            response = drive_client.create(**new_folder_kwargs).execute()
+            migrate(
+                os.path.join(path, folder),
+                drive_client,
+                gdrive_folder_id=response.get("id"),
+            )
+        for fil in files:
+            upload_file(drive_client, os.path.join(path, fil), gdrive_folder_id)
+
+        break
 
 
 def main():
-    """Shows basic usage of the Drive v3 API.
-    Prints the names and ids of the first 10 files the user has access to.
-    """
+    print("Getting credentials,,,")
     creds = None
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
@@ -36,16 +103,15 @@ def main():
             token.write(creds.to_json())
 
     service = build("drive", "v3", credentials=creds)
+    drive_client = service.files()
+
+    print("Successfully got credentials")
 
     # Call the Drive v3 API
-    results = (
-        service.files()
-        .list(
-            q="'root' in parents",
-            fields="files(id, name)",
-        )
-        .execute()
-    )
+    results = drive_client.list(
+        q="'root' in parents",
+        fields="files(id, name)",
+    ).execute()
 
     # results = service.files().list(
     # pageSize=10).execute()
@@ -57,101 +123,21 @@ def main():
             capture_folder_id = item["id"]
 
     if capture_folder_id is None:
-        # create
-        pass
+        cap_kwargs = copy.deepcopy(FOLDER_KWARGS)
+        cap_kwargs["body"]["name"] = "all_shootout_captures"
+        response = drive_client.create(**cap_kwargs).execute()
+        capture_folder_id = response.get("id")
 
-    print(capture_folder_id)
+    new_upload_kwargs = copy.deepcopy(FOLDER_KWARGS)
+    new_upload_kwargs["body"]["name"] = str(int(time.time()))  # TODO: change to date
+    new_upload_kwargs["body"]["parents"] = [capture_folder_id]
+    response = drive_client.create(**new_upload_kwargs).execute()
+    new_upload_folder_id = response.get("id")
+
+    print("Uploading folder...")
+    migrate(CAPTURE_DIR, drive_client, gdrive_folder_id=new_upload_folder_id)
+    print("Upload successful")
 
 
 if __name__ == "__main__":
     main()
-
-
-def migrate(file_path, gdrive_folder_id, service, drive_space="drive"):
-
-    """
-        a method to save a posix file architecture to google drive
-
-    NOTE:   to write to a google drive account using a non-approved app,
-            the oauth2 grantee account must also join this google group
-            https://groups.google.com/forum/#!forum/risky-access-by-unreviewed-apps
-
-    :param file_path: string with path to local file
-    :param gdrive_folder_id: the google drive folder id of where to upload
-    :param service: Googledrive service, from googleapiclient.
-    :param drive_space: string with name of space to write to (drive, appDataFolder, photos)
-    :return: string with id of file on google drive
-    """
-
-    # construct drive client
-    drive_client = service.files()
-
-    # prepare file body
-    media_body = MediaFileUpload(filename=file_path, resumable=True)
-
-    # determine file modified time
-    modified_epoch = os.path.getmtime(file_path)
-    modified_time = datetime.utcfromtimestamp(modified_epoch).isoformat()
-
-    # determine path segments
-    path_segments = file_path.split(os.sep)
-
-    # construct upload kwargs
-    create_kwargs = {
-        "body": {"name": path_segments.pop(), "modifiedTime": modified_time},
-        "media_body": media_body,
-        "fields": "id",
-    }
-
-    # walk through parent directories
-    parent_id = ""
-    if path_segments:
-
-        # construct query and creation arguments
-        walk_folders = True
-        folder_kwargs = {
-            "body": {"name": "", "mimeType": "application/vnd.google-apps.folder"},
-            "fields": "id",
-        }
-        query_kwargs = {"spaces": drive_space, "fields": "files(id, parents)"}
-        while path_segments:
-            folder_name = path_segments.pop(0)
-            folder_kwargs["body"]["name"] = folder_name
-
-            # search for folder id in existing hierarchy
-            if walk_folders:
-                walk_query = "name = '%s'" % folder_name
-                if parent_id:
-                    walk_query += "and '%s' in parents" % parent_id
-                query_kwargs["q"] = walk_query
-                response = drive_client.list(**query_kwargs).execute()
-                file_list = response.get("files", [])
-            else:
-                file_list = []
-            if file_list:
-                parent_id = file_list[0].get("id")
-
-            # or create folder
-            # https://developers.google.com/drive/v3/web/folder
-            else:
-                if not parent_id:
-                    if drive_space == "appDataFolder":
-                        folder_kwargs["body"]["parents"] = [drive_space]
-                    else:
-                        del folder_kwargs["body"]["parents"]
-                else:
-                    folder_kwargs["body"]["parents"] = [parent_id]
-                response = drive_client.create(**folder_kwargs).execute()
-                parent_id = response.get("id")
-                walk_folders = False
-
-    # add parent id to file creation kwargs
-    if parent_id:
-        create_kwargs["body"]["parents"] = [parent_id]
-    elif drive_space == "appDataFolder":
-        create_kwargs["body"]["parents"] = [drive_space]
-
-    # send create request
-    uploaded_file = drive_client.create(**create_kwargs).execute()
-
-    return uploaded_file.get("id")
