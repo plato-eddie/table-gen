@@ -30,13 +30,13 @@ def convert_335():
             prefix = fil_list[0]
             ext = fil.split('.')[-1]
             if prefix not in prefixes:
-                os.rename(os.path.join(path, fil), os.path.join(path, f"{prefix}_wide_335.{ext}"))
+                os.rename(os.path.join(path, fil), os.path.join(path, f"{prefix}_narrow_335.{ext}"))
                 prefixes.add(fil_list[0])
             else:
-                os.rename(os.path.join(path, fil), os.path.join(path, f"{prefix}_narrow_335.{ext}"))
+                os.rename(os.path.join(path, fil), os.path.join(path, f"{prefix}_wide_335.{ext}"))
         break
 
 
 if __name__ == "__main__":
-    # convert_290()
+    convert_290()
     convert_335()
