@@ -25,3 +25,4 @@ for image_path in CAPTURE_DIRS:
                 THUMBNAIL_DIR, f"thumbnail_{path.basename(path.normpath(image_path))}"
             )
         )
+

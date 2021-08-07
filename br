@@ -3,6 +3,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 1,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -11,6 +12,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 1,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -19,22 +21,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 1,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 1,
-      "lighting": "0.1",
-      "description": "Color chart, SLOAN and person at 20 ft",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 1,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -45,6 +41,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 2,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -53,6 +50,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 2,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -63,6 +61,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 3,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft with two headlights",
@@ -71,6 +70,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 3,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft with two headlights",
@@ -79,22 +79,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 3,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft with two headlights",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 3,
-      "lighting": "0.1",
-      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 3,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft with two headlights",
@@ -105,6 +99,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 4,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft with two headlights",
@@ -113,6 +108,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 4,
       "lighting": "0.1",
       "description": "Color chart, SLOAN and person at 20 ft with two headlights",
@@ -123,6 +119,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 5,
       "lighting": "1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -131,6 +128,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 5,
       "lighting": "1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -139,22 +137,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 5,
       "lighting": "1",
       "description": "Color chart, SLOAN and person at 20 ft",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 5,
-      "lighting": "1",
-      "description": "Color chart, SLOAN and person at 20 ft",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 5,
       "lighting": "1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -165,6 +157,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 6,
       "lighting": "1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -173,6 +166,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 6,
       "lighting": "1",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -183,6 +177,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 7,
       "lighting": "2",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -191,6 +186,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 7,
       "lighting": "2",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -199,22 +195,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 7,
       "lighting": "2",
       "description": "Color chart, SLOAN and person at 20 ft",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 7,
-      "lighting": "2",
-      "description": "Color chart, SLOAN and person at 20 ft",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 7,
       "lighting": "2",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -225,6 +215,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 8,
       "lighting": "2",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -233,6 +224,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 8,
       "lighting": "2",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -243,6 +235,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 9,
       "lighting": "5",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -251,6 +244,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 9,
       "lighting": "5",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -259,22 +253,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 9,
       "lighting": "5",
       "description": "Color chart, SLOAN and person at 20 ft",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 9,
-      "lighting": "5",
-      "description": "Color chart, SLOAN and person at 20 ft",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 9,
       "lighting": "5",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -285,6 +273,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 10,
       "lighting": "5",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -293,6 +282,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 10,
       "lighting": "5",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -303,6 +293,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 11,
       "lighting": "10",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -311,6 +302,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 11,
       "lighting": "10",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -319,22 +311,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 11,
       "lighting": "10",
       "description": "Color chart, SLOAN and person at 20 ft",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 11,
-      "lighting": "10",
-      "description": "Color chart, SLOAN and person at 20 ft",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 11,
       "lighting": "10",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -345,6 +331,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 12,
       "lighting": "10",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -353,6 +340,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 12,
       "lighting": "10",
       "description": "Color chart, SLOAN and person at 20 ft",
@@ -363,6 +351,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 13,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
@@ -371,6 +360,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 13,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
@@ -379,22 +369,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 13,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 13,
-      "lighting": "310",
-      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 13,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
@@ -405,6 +389,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 14,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -413,6 +398,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 14,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -421,22 +407,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 14,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 14,
-      "lighting": "310",
-      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 14,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -447,6 +427,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 15,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
@@ -455,6 +436,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 15,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
@@ -463,22 +445,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 15,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 15,
-      "lighting": "310",
-      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 15,
       "lighting": "310",
       "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
@@ -489,6 +465,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 16,
       "lighting": "0.1",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -497,6 +474,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 16,
       "lighting": "0.1",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -505,22 +483,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 16,
       "lighting": "0.1",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 16,
-      "lighting": "0.1",
-      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 16,
       "lighting": "0.1",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -531,6 +503,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 17,
       "lighting": "0.1",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -539,6 +512,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 17,
       "lighting": "0.1",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -549,6 +523,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 18,
       "lighting": "5",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -557,6 +532,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 18,
       "lighting": "5",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -565,22 +541,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 18,
       "lighting": "5",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 18,
-      "lighting": "5",
-      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 18,
       "lighting": "5",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -591,6 +561,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 19,
       "lighting": "5",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -599,6 +570,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 19,
       "lighting": "5",
       "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
@@ -609,6 +581,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 20,
       "lighting": "TBD",
       "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
@@ -617,6 +590,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 20,
       "lighting": "TBD",
       "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
@@ -625,22 +599,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 20,
       "lighting": "TBD",
       "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 20,
-      "lighting": "TBD",
-      "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 20,
       "lighting": "TBD",
       "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
@@ -651,6 +619,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 21,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -659,6 +628,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 21,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -667,22 +637,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 21,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 21,
-      "lighting": "120 & 7000",
-      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 21,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -693,6 +657,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 22,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -701,6 +666,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 22,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -709,22 +675,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 22,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 22,
-      "lighting": "700 & 7000",
-      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 22,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -735,6 +695,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 23,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -743,6 +704,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 23,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -751,22 +713,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 23,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 23,
-      "lighting": "700 & 7000",
-      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 23,
       "lighting": "700 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -777,6 +733,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 24,
       "lighting": "700 inside, 7000 outside",
       "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
@@ -785,6 +742,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 24,
       "lighting": "700 inside, 7000 outside",
       "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
@@ -793,22 +751,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 24,
       "lighting": "700 inside, 7000 outside",
       "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 24,
-      "lighting": "700 inside, 7000 outside",
-      "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 24,
       "lighting": "700 inside, 7000 outside",
       "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
@@ -819,6 +771,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 25,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -827,6 +780,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 25,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -835,22 +789,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 25,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 25,
-      "lighting": "120 & 7000",
-      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 25,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -861,6 +809,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 26,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -869,6 +818,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 26,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -877,22 +827,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 26,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 26,
-      "lighting": "120 & 7000",
-      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 26,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -903,6 +847,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 27,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -911,6 +856,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 27,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -919,22 +865,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 27,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 27,
-      "lighting": "120 & 7000",
-      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 27,
       "lighting": "120 & 7000",
       "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
@@ -945,6 +885,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 28,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
@@ -953,6 +894,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 28,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
@@ -961,22 +903,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 28,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 28,
-      "lighting": "outside",
-      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 28,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
@@ -987,6 +923,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 29,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
@@ -995,6 +932,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 29,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
@@ -1003,22 +941,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 29,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 29,
-      "lighting": "outside",
-      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 29,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
@@ -1029,6 +961,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 30,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
@@ -1037,6 +970,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 30,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
@@ -1045,22 +979,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 30,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 30,
-      "lighting": "outside",
-      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 30,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
@@ -1071,6 +999,7 @@
     {
       "camera": "Axis",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 31,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
@@ -1079,6 +1008,7 @@
     {
       "camera": "Avigilon",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 31,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
@@ -1087,22 +1017,16 @@
     {
       "camera": "IMX 290",
       "gdrive_id": null,
+      "snapshot_url": null,
       "id": 31,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
       "ir": "n"
     },
     {
-      "camera": "IMX 335 Narrow",
+      "camera": "IMX 335",
       "gdrive_id": null,
-      "id": 31,
-      "lighting": "outside",
-      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
-      "ir": "n"
-    },
-    {
-      "camera": "IMX 335 Wide",
-      "gdrive_id": null,
+      "snapshot_url": null,
       "id": 31,
       "lighting": "outside",
       "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",

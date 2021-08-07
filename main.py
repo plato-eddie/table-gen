@@ -6,6 +6,7 @@ This example shows the functionality of the Tabu and LongTabu element.
 """
 
 # begin-doc-include
+import copy
 import json
 from random import randint
 from pylatex import (
@@ -24,7 +25,14 @@ from pylatex.utils import escape_latex, NoEscape
 with open("./experiment.json", "r") as fin:
     experiment_data = json.load(fin)
 
-
+snapshot_names = {
+    "Axis": "avig",
+    "Avigilon": "axis",
+    "IMX 290": "290",
+    "IMX 335 Narrow": "narrow_335",
+    "IMX 335 Wide": "wide_335",
+}
+VIDEOS = ["14", "15", "16", "17", "18", "19", "24"]
 
 
 def hyperlink(url, text):
@@ -32,9 +40,8 @@ def hyperlink(url, text):
     return NoEscape(r"\href{" + url + "}{" + text + "}")
 
 
-def genenerate_tabus():
+def generate_shootout_table():
     geometry_options = {
-        "landscape": True,
         "margin": ".5in",
         "headheight": "20pt",
         "headsep": "10pt",
@@ -43,14 +50,13 @@ def genenerate_tabus():
     doc = Document(page_numbers=False, geometry_options=geometry_options)
 
     # Generate data table with 'tight' columns
-    fmt = "m{2.5cm} m{4cm} m{2cm} m{2cm} m{2cm} m{2cm} m{2cm}"
+    fmt = "m{2.5cm} m{4cm} m{2cm} m{4cm} m{2cm} m{2cm}"
     with doc.create(LongTabu(fmt, row_height="2")) as data_table:
         header_row1 = [
             "Capture ID",
             "Image",
             "Camera",
-            "Notes",
-            "Scene",
+            "Description",
             "Lighting",
             "IR",
         ]
@@ -58,32 +64,45 @@ def genenerate_tabus():
         data_table.add_hline()
         data_table.add_empty_row()
         data_table.end_table_header()
-        row = [
-            "0",
-            StandAloneGraphic(
-                image_options="width=100px", filename="../thumbnail_1_290.jpg"
-            ),
-            hyperlink("https://google.com", "IMX"),
-            "$100",
-            "%10",
-            "$1000",
-            "Test",
-        ]
-        for i in range(8):
-            r = deepcopy(row)
-            if i % 4 != 0:
-                r[0] = ""
+
+        for capture in experiment_data:
+            for i, camera_data in enumerate(experiment_data[capture]):
+                if i == 0:
+                    r = [
+                        capture,
+                        StandAloneGraphic(
+                            image_options="width=100px",
+                            filename=f"./snapshots/thumbnail_{capture}_{snapshot_names[camera_data['camera']]}.jpg",
+                        ),
+                        hyperlink("https://google.com", camera_data["camera"]),
+                        camera_data["description"],
+                        camera_data["lighting"],
+                        camera_data["ir"],
+                    ]
+                else:
+                    r = [
+                        "",
+                        StandAloneGraphic(
+                            image_options="width=100px",
+                            filename=f"./snapshots/thumbnail_{capture}_{snapshot_names[camera_data['camera']]}.jpg",
+                        ),
+                        hyperlink("https://google.com", camera_data["camera"]),
+                        "",
+                        "",
+                        "",
+                    ]
+                if capture in VIDEOS:
+                    r[1] = ""
+                data_table.add_row(r)
                 data_table.add_empty_row()
 
-            elif i != 0:
-                data_table.add_empty_row()
-                data_table.add_hline()
-                data_table.add_empty_row()
-            data_table.add_row(r)
+            data_table.add_empty_row()
+            data_table.add_hline()
+            data_table.add_empty_row()
 
     doc.packages.append(Package("hyperref"))
     doc.packages.append(Package("array"))
-    doc.generate_pdf("tabus", clean_tex=False)
+    doc.generate_pdf("shootout_table", clean_tex=False)
 
 
-# genenerate_tabus()
+generate_shootout_table()
