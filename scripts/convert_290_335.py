@@ -1,5 +1,8 @@
 import os
+import sys
 from shutil import copyfile
+
+os.chdir(sys.path[0])
 
 FOLDER_290_CAPTURES = "/home/eddie/2_all_captures/290"
 FOLDER_335_CAPTURES = "/home/eddie/2_all_captures/335"

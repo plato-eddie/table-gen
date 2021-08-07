@@ -1,12 +1,14 @@
 import glob
-from os import path, mkdir
+from os import path, mkdir, chdir
 from PIL import Image
+import sys
 
 
-CAPTURE_DIR = "/home/eddie/testing_caps"
+chdir(sys.path[0])
+CAPTURE_DIR = "/home/eddie/2_all_captures"
 CAPTURE_DIRS = glob.glob(f"{CAPTURE_DIR}/**", recursive=True)
-THUMBNAIL_DIR = path.abspath("./snapshots")
-THUMBNAIL_WIDTH = 200
+THUMBNAIL_DIR = path.abspath("../snapshots")
+THUMBNAIL_WIDTH = 300
 
 if not path.exists(THUMBNAIL_DIR):
     mkdir(THUMBNAIL_DIR)

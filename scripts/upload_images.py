@@ -3,6 +3,7 @@ from datetime import datetime
 import os
 import os.path
 import copy
+import sys
 import time
 
 from googleapiclient.http import MediaFileUpload
@@ -13,6 +14,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 
+os.chdir(sys.path[0])
 
 ALL_FILES = {}
 
@@ -143,7 +145,7 @@ def main():
     migrate(CAPTURE_DIR, drive_client, gdrive_folder_id=new_upload_folder_id)
     print("Upload successful")
 
-    with open("gdrive_file_ids.json", "w", encoding="utf-8") as f:
+    with open("../gdrive_file_ids.json", "w", encoding="utf-8") as f:
         json.dump(ALL_FILES, f, ensure_ascii=False, indent=4)
 
 
