@@ -1,1 +1,1112 @@
-{"1": [{"camera": "Axis", "gdrive_id": "1xthV8TWnqz_SDNNtT_xcmORUg2IhQGQN", "id": 1, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1nK7Jabr1wIu-w9iHipGw8fA1eWWZ9SNv", "id": 1, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1D3JN2JLcIsW6hv3bNirRHavsgVu-qdwf", "id": 1, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1Lw1MsokV2QlChZ3GRbNdQ66bw1ULeaK1", "id": 1, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1oHNj9R1tTVNfvsi5p1X7fjUbTrULBFvf", "id": 1, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}], "2": [{"camera": "Axis", "gdrive_id": "1pU-tbyc8lwUnb3PMrva4BooGY_8yO-_V", "id": 2, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1dodLi0jCGQ4hHmS75s5bsWQ-11g9CUrT", "id": 2, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}], "3": [{"camera": "Axis", "gdrive_id": "16fc7VadG-kmGQEZlO9oU1854Shywl2EI", "id": 3, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft with two headlights", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1q6gqBQ6S1FwtAiRq4IqMP8QIOxCVgdUm", "id": 3, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft with two headlights", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1-f0GmT8ISstMWtPluwlpYSEjW-PEKy6G", "id": 3, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft with two headlights", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "118Ikvzhi-AxQ9M3h6NEk44gCdTZtthgE", "id": 3, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft with two headlights", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "15LOlQBbfMQFXythqIFHXFbSU2_Lcecz3", "id": 3, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft with two headlights", "ir": "n"}], "4": [{"camera": "Axis", "gdrive_id": "1D2tFavb6tvWkyqXF9d36gFK9kObfAqQG", "id": 4, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft with two headlights", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1j0_TzJFfktBd_8HYTTIBMHNd07P60b8u", "id": 4, "lighting": "0.1", "description": "Color chart, SLOAN and person at 20 ft with two headlights", "ir": "y"}], "5": [{"camera": "Axis", "gdrive_id": "18tryp1T-Yq1Pr2vNXBt2vCDzVUe_sWjN", "id": 5, "lighting": "1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1uKAi8Vf5jjoS4yQaUYb4f7UBP877URnU", "id": 5, "lighting": "1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1Y-eCRi_fKYXgy8hXca5ltbo7CeTw16UG", "id": 5, "lighting": "1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "17hQ5NxbOW74IUgj1OgmchKRLJQevGJQN", "id": 5, "lighting": "1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1O9Ss0SxVm-hpi9jvpoeF_SfwOqFfMg6_", "id": 5, "lighting": "1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}], "6": [{"camera": "Axis", "gdrive_id": "1o1POfDeMFYfWdqqpsCTkpXhpXzOnykpl", "id": 6, "lighting": "1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1lN72wdxZQx5QDA945h6Qe6C2h65NqJke", "id": 6, "lighting": "1", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}], "7": [{"camera": "Axis", "gdrive_id": "1y54j4DJ2NKJ16K7dxZhIk_P7y2XZhixC", "id": 7, "lighting": "2", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1aYQ1jCPiIFOqgx57GCxPA0ue1wR4so1H", "id": 7, "lighting": "2", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "12DgB9bq1eeSnzXY7FnWGNODZh0oyK-dp", "id": 7, "lighting": "2", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1jf2rYP0qS8I3DQF76z-EezgiqJ8959Wt", "id": 7, "lighting": "2", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1p6secTWYWgU3ddX4v2jcT9RK04pmodIf", "id": 7, "lighting": "2", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}], "8": [{"camera": "Axis", "gdrive_id": "14cIMk3ZYZZCvw1nAD0fRTxo28oA1ogvI", "id": 8, "lighting": "2", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1A_SxVHRQX8rmbWH5cGcsMGikNiDyZSml", "id": 8, "lighting": "2", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}], "9": [{"camera": "Axis", "gdrive_id": "1YCU7vebcL7eO_ZGqAgCnGZIpcDul43uZ", "id": 9, "lighting": "5", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1LzHFQiYuwZNWtuOkiawDhspTknJ8DwJH", "id": 9, "lighting": "5", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1DLe9z3Dr9TVWF2tRS5Ypo15iZtBdAsvj", "id": 9, "lighting": "5", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1rHpJo7NgVPW9f7ONsCkVo1-bUFzcvzRF", "id": 9, "lighting": "5", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1LIcg7o4FFqLeUKn56Vzv8ajf_F6IyUZD", "id": 9, "lighting": "5", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}], "10": [{"camera": "Axis", "gdrive_id": "1vM27J4I5hL6cYPRTmNqgFSs_SZfDPXHu", "id": 10, "lighting": "5", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1SzFi0skR9C1gUljNtYF_WleA63xNEG7g", "id": 10, "lighting": "5", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}], "11": [{"camera": "Axis", "gdrive_id": "1W6dFHP7HQJ4QoIpgM2EtNyqKn5k4SNRU", "id": 11, "lighting": "10", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1yZfgjzj-YLJWCmQWwxPci34Pwg6di89s", "id": 11, "lighting": "10", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1lsPoPlqaHDXXYc023AvWvS7iqQAY0pnQ", "id": 11, "lighting": "10", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1LoEW2xSsvm09DzviGuoz4PA_wF0fnxzy", "id": 11, "lighting": "10", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1FzmykcKnsG6wl9Zqh4BDBGeRPUZqVfc6", "id": 11, "lighting": "10", "description": "Color chart, SLOAN and person at 20 ft", "ir": "n"}], "12": [{"camera": "Axis", "gdrive_id": "1EOLpj27xyZ4Zt56Bh_ZrP4mSC3IlwukH", "id": 12, "lighting": "10", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1pjwAKJIEH6E4j6cPBU3F90JDgGvxbyOC", "id": 12, "lighting": "10", "description": "Color chart, SLOAN and person at 20 ft", "ir": "y"}], "13": [{"camera": "Axis", "gdrive_id": "14I38zQOl8fZOZpiK4yDhh_XuDKW8F3He", "id": 13, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1vqyNTLE_zyhFXrd2Ndo67qP_FdZeJfnL", "id": 13, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1E-X3jzEck8rCg-OiJ9ieZyMsf9LijgKB", "id": 13, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1_Ck2oF7QL0GLC1mM4qAN1bGC14UtLqq3", "id": 13, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1flW8_jV_AdQ99zvnKkVtnrzL8TBkDmJO", "id": 13, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.", "ir": "n"}], "14": [{"camera": "Axis", "gdrive_id": "1WcjZkVFX4oDI8Uzz3MQV9bnyokMG2EZ-", "id": 14, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1XVwhVL2cJA7h52oRfvF0OWZb4oUuYlfA", "id": 14, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1lN5kaNghf6pUreyVfT-yQMrjXffkkJKT", "id": 14, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1MJHtrJFnctFo9cM6mEMiaatAhwLMClEm", "id": 14, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1sklKSJczD2KTPTgauD9WSpgRLLQT9iZg", "id": 14, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}], "15": [{"camera": "Axis", "gdrive_id": null, "id": 15, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1yncIOssxeyLSLnh9IjlnnUIgVwEovYzE", "id": 15, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": null, "id": 15, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": null, "id": 15, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": null, "id": 15, "lighting": "310", "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light", "ir": "n"}], "16": [{"camera": "Axis", "gdrive_id": "1ARh3PP_oWMajqsPB_AXcx6RZX3jFzKOB", "id": 16, "lighting": "0.1", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "18Ho9aJrwcuCO7JGJaULrZLrZ4AxPu1tK", "id": 16, "lighting": "0.1", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1keSs6z4fy486AVA5HE6J0QysqZOWFrXD", "id": 16, "lighting": "0.1", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "16Bf-A20tSQrS3tqmgbiYGsilQzk9jIiK", "id": 16, "lighting": "0.1", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1wWRmYteOcu1JBK_WTod943ItaNdNcF58", "id": 16, "lighting": "0.1", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}], "17": [{"camera": "Axis", "gdrive_id": "1lbnZEWrkW8z4IXsYOgWSA9GNEzcKqZNb", "id": 17, "lighting": "0.1", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1342uopU2EbLuZx73gg2TI6-ExcB4aZP0", "id": 17, "lighting": "0.1", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "y"}], "18": [{"camera": "Axis", "gdrive_id": "1GN1A2vdZTWRAQqDle7vwZkvldw-dV6Hx", "id": 18, "lighting": "5", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1OywqjIYjO_kEUzADYp8ODwSJU42vIUKa", "id": 18, "lighting": "5", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1xw8-j5XMFpHrmmgqRJWLaH_MTbIJynsM", "id": 18, "lighting": "5", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "123eAd0QZEYJkwz5BLVYMnf2XIcjvjSqu", "id": 18, "lighting": "5", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "19FsABopyxSEJf3R0DRr9M0eB_Higvrx8", "id": 18, "lighting": "5", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "n"}], "19": [{"camera": "Axis", "gdrive_id": "1Zsq4BGwbMqnAeRSK4DBlUA9IABht-zWo", "id": 19, "lighting": "5", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "y"}, {"camera": "Avigilon", "gdrive_id": "1-_9hxo8BSkV0xmBZ1IfSC1LZfXQmlpBH", "id": 19, "lighting": "5", "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.", "ir": "y"}], "20": [{"camera": "Axis", "gdrive_id": "1rIddRHhGBJceb1k1WUb0s-CTgygJIsib", "id": 20, "lighting": "TBD", "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1HiSFFiDk0aBlTIsgzqjKtNF9Rld1GdOZ", "id": 20, "lighting": "TBD", "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1VBHlOWv-GOlVb70PupBpk6_Ek_WCqH9P", "id": 20, "lighting": "TBD", "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1cZXnKYMv8vde1DIeLRlZQZDAofM7X-2r", "id": 20, "lighting": "TBD", "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1t1CuQNjrQBWV59FwFwhwXjkqHY56jnK4", "id": 20, "lighting": "TBD", "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person", "ir": "n"}], "21": [{"camera": "Axis", "gdrive_id": "17Yu8jbBcU4um5Ff8zvO6LsfE6Fm7xHt4", "id": 21, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1JVWFnt4vg5cWF-ugy3CZ3ISsw4tCeCFc", "id": 21, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1RExCmzTDmMnHeAftdKy-VBh32UaOjjo4", "id": 21, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1ylXd-ot0pfPBbMBtwoBlM3hJPjJjgkRr", "id": 21, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1nx6QxZrkea4Ib98Y_0ltHOYlNjq-PQrm", "id": 21, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}], "22": [{"camera": "Axis", "gdrive_id": "1C96Y50gTz0E5BaAggCnQ5Ausr8-LDbfS", "id": 22, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1RuP1FdSRNkYCI-5TA64PWBilDctnzVqZ", "id": 22, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "16W50CSwA5JqmUoHU6dlOyfe5Pd2cE3vP", "id": 22, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1dc49T5xamWYa58A33kKjdMfUFXwU8RUN", "id": 22, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1c9AYu15RM-Ly4FyZisj_OLkK55nJjkma", "id": 22, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}], "23": [{"camera": "Axis", "gdrive_id": "1bk5cCarp0aQL-46Yy9C9oSHtYcWGlhkK", "id": 23, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "17O29UwpJwW4nGNwvejRCzZ0mbo66S-NS", "id": 23, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1ilA8JRF8nNtEPRSLxt3Jsw_X0FzZ9JpS", "id": 23, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1zTwkdkk79HPv16rhiYVk07-4s77E9tqw", "id": 23, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1j9z_oWvJehpu6zqozKz3_L6Y8Ei9iugT", "id": 23, "lighting": "700 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}], "24": [{"camera": "Axis", "gdrive_id": "1bv4_cJTwBhGiDCiwVVMU_Q9BXDPUxjZe", "id": 24, "lighting": "700 inside, 7000 outside", "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1E9mTZjE4hcH4p6iyjmVwLgU7ZJgHPDNo", "id": 24, "lighting": "700 inside, 7000 outside", "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1-WdobavcKGmV76Sw2VqABW7PGPYWItux", "id": 24, "lighting": "700 inside, 7000 outside", "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1xG0DIWKWEw2SWbxUsHeIKySJDZk1MdGz", "id": 24, "lighting": "700 inside, 7000 outside", "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1u-Yh-sdaH-v5JO0Ea9CL8RnSdwdJQEmY", "id": 24, "lighting": "700 inside, 7000 outside", "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.", "ir": "n"}], "25": [{"camera": "Axis", "gdrive_id": "1UXV1n18TmUBdrUF3zLQK1U2bcGgcaTGH", "id": 25, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1o2viVG7-Epg9faqyeNiT3ywSaYwalyge", "id": 25, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1wrufKkP7V2OENCQwg_tccEXJtivJ8b8F", "id": 25, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1IxoYFKe6C34boLFRT1qTbxEA0cKky_Gr", "id": 25, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1yAGRQ2oAl3StimpzyjZ9SDWOfIpOLGz7", "id": 25, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}], "26": [{"camera": "Axis", "gdrive_id": "1A9cTWVn7gQ2aBzVh6clbd71FBVlHt-aI", "id": 26, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1vMk5yEZ7Jl7lb1Ue6qGrYlpIEKEwb8Pb", "id": 26, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1dc0q6CLzVvEC_pK-OYqTpicx8EkUse3Z", "id": 26, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1V1Pm_S7aVeWU8uQYbcwVRdqjpZfDnIWI", "id": 26, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1dG51jysWIMH6WtMzZVuEkprgScbcGlK4", "id": 26, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}], "27": [{"camera": "Axis", "gdrive_id": "1uPTblT1pA3a18aOi6pfUaG5j_n0JTL4L", "id": 27, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1zOEmE1T2UnNK1xppIS0Hn5BdgzxIt3tL", "id": 27, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1vPX1dD_3ojWJhK3WufjZ6262ZseFG1O4", "id": 27, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1AReY6Teafma3kt9gcRYIgmIBFQo8TaiH", "id": 27, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1Boo_DSe0fxemjhOTLnjp158PSqgEwqgs", "id": 27, "lighting": "120 & 7000", "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.", "ir": "n"}], "28": [{"camera": "Axis", "gdrive_id": "11dhsqThNDprEJMNIs8ZKUHD66xbOhEqp", "id": 28, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1SUKAru_ntKMrqe-wWgvJhGy4jIKe8L-g", "id": 28, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1eWMT3Yf_rxc-52cEWrJnKzwciEfdGh9G", "id": 28, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1UmWga_MHIMXKGxTZkUnktwnwek7iOCkM", "id": 28, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1S7FXz2v6HP4Dqx1L0Dxk616AHvkKmx3t", "id": 28, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.", "ir": "n"}], "29": [{"camera": "Axis", "gdrive_id": "1IEBiYsmqy4WSVvbr4eBzbolqAXHmit98", "id": 29, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1Khmyl9DE20HgnTvuMxXavVoFxrFhir69", "id": 29, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1PaxqcAglb7RG8_ddowIkee-Sbzof_yMi", "id": 29, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1LC4qx0e6tltCQawePkngAaBPskuFh5V7", "id": 29, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "10MQUW0l6qIN-qpgMr_xY5SpFc5cBk2o8", "id": 29, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.", "ir": "n"}], "30": [{"camera": "Axis", "gdrive_id": "1Qob-4rT8c1gBhJdqC4PMf5S8Yeg2DD10", "id": 30, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1GOCm5c_2imIQCWHsZmDUD6MbWzB834R8", "id": 30, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "124HwjRpsYSn1qlt-v0U9zNZiIgRNBBYa", "id": 30, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1pqMoLw-JOg8BAjdPfAtm3xs95Qnn-76n", "id": 30, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1IlLRbg-xF_wkp81xQgG8aP6zht5tE3Qe", "id": 30, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.", "ir": "n"}], "31": [{"camera": "Axis", "gdrive_id": "1Fzq7fv66K2r6gkGE_5yxob429l-ULb8v", "id": 31, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.", "ir": "n"}, {"camera": "Avigilon", "gdrive_id": "1QJ0gEvfzzdC87EH7hzTOxVlGM26LLoR1", "id": 31, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.", "ir": "n"}, {"camera": "IMX 290", "gdrive_id": "1sF-A4yzBrPFhpy0bxPe1o4_JCh8Np1XP", "id": 31, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.", "ir": "n"}, {"camera": "IMX 335 Narrow", "gdrive_id": "1RilVYfD5CKR9ionW1_uuHuC_hDOOdUUM", "id": 31, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.", "ir": "n"}, {"camera": "IMX 335 Wide", "gdrive_id": "1sWnOwxzI_gKie6Yza3ki_s_eh44Qt561", "id": 31, "lighting": "outside", "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.", "ir": "n"}]}
+{
+  "1": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1TnZFiTz-htGRbnmszPHy7klXi7rWWjfQ",
+      "id": 1,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1K9Nlo2SMEhjSaEqoV0-IDfCeKqcOHHj_",
+      "id": 1,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1wADNBAVxRu6yeUzQsWqsSDP7U5mlGgv3",
+      "id": 1,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1mXNpw1SojW-4GDKZ2seAjz8m0E2FZwMM",
+      "id": 1,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1THbLdF-SRGHvzUvleElREkz9lX4W-TsK",
+      "id": 1,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    }
+  ],
+  "2": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1wA7EmlINVA6tnHDiywPpKLJ_V6_r0Boj",
+      "id": 2,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1rqnI-1rj82M7yhMZ02CjoL2VXoaQuI6Q",
+      "id": 2,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    }
+  ],
+  "3": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1MMpqPE-_JtqW4FoJNlXglzJE6boindVr",
+      "id": 3,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1Jv_5ABvKCxGoy3FBrwGth7CHPvijJzbC",
+      "id": 3,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "12VL1gdjKlPqcwaDZMmox0JToHT8KDe5L",
+      "id": 3,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1JtpyHYpi5WE-4bukV1eQRYKUVNGLHA9v",
+      "id": 3,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1dWva5FP9_3fBOEda6hlaNBquHdUrAIYO",
+      "id": 3,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
+      "ir": "n"
+    }
+  ],
+  "4": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1dzwAf_vjvnlZZigPS-tNTE3GUOtVdLHQ",
+      "id": 4,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1VykbA7uPZG0vlf5oge4vqfUiGAMm-ZEG",
+      "id": 4,
+      "lighting": "0.1",
+      "description": "Color chart, SLOAN and person at 20 ft with two headlights",
+      "ir": "y"
+    }
+  ],
+  "5": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1QjgfdstP6NkM28I8L67VvpeE0_j1vrTH",
+      "id": 5,
+      "lighting": "1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1ZKxE8sKUDAM_w4QSf9a0iYzjH3_zque1",
+      "id": 5,
+      "lighting": "1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "13uTJSzxMOpNTNiRlhc4r_q7YKX4gAzdr",
+      "id": 5,
+      "lighting": "1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1MQ62ueWGeNSn5hTgv0Cb9bHy7E15cG4s",
+      "id": 5,
+      "lighting": "1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1J57Q7X3TEIUolCkM8lYnVRJPfiJJ7LMx",
+      "id": 5,
+      "lighting": "1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    }
+  ],
+  "6": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1-unNIZgpA4LrxhFTv3yI0XTs4Ums2sXT",
+      "id": 6,
+      "lighting": "1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "18wdWWZ1hZeuV-ki4ZMS3tXETaytrt_8T",
+      "id": 6,
+      "lighting": "1",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    }
+  ],
+  "7": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1qptludf_UZIqGHxItrbNUXgCzhPPumvX",
+      "id": 7,
+      "lighting": "2",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1f8RQPy_FFPnRBtsRk0pm2fEskeGoM7Ch",
+      "id": 7,
+      "lighting": "2",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1kxk21TfAbRHpIF3kIF0k_iZfc-TPDjNU",
+      "id": 7,
+      "lighting": "2",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1OTPJ0HS0eiPVacBwNbepHquzjVpoiMlu",
+      "id": 7,
+      "lighting": "2",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "11lUd81R7js5HzBBaUpF55w-e0aK8BDvh",
+      "id": 7,
+      "lighting": "2",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    }
+  ],
+  "8": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1dIMfIvu4PNXc4fBl0NWdB_pRMQ6uOnRl",
+      "id": 8,
+      "lighting": "2",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1CdmQ9ZqpQhFciiErRFA1oyzv_LDTw08f",
+      "id": 8,
+      "lighting": "2",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    }
+  ],
+  "9": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1-nkgyYF5XQGoX78rVhqMn-urWQTx7N5H",
+      "id": 9,
+      "lighting": "5",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1Wksqn2RFeL8PvKrpSK_-9BojnGTA-myy",
+      "id": 9,
+      "lighting": "5",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "17ozV-Gmt341mVcATrnqn1vQrTIJ5zGFD",
+      "id": 9,
+      "lighting": "5",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1XLKox52boq9CPdTEdJzQeL3ovW9pv7-0",
+      "id": 9,
+      "lighting": "5",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1JAG3ou_N4E42RGVmzAd49YMlXWBZ0w7z",
+      "id": 9,
+      "lighting": "5",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    }
+  ],
+  "10": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1nUAG04xCKvkZ-iGkHwqXTdi8gf36rWDZ",
+      "id": 10,
+      "lighting": "5",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1nabKrH0qS27BZH8De6vlP_IgS_janqi1",
+      "id": 10,
+      "lighting": "5",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    }
+  ],
+  "11": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1TA8mg0guTv4qlYRPEHv_uCqfUPBe4Vi0",
+      "id": 11,
+      "lighting": "10",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1f145baq6-oiCN7YpWAnfAIqu7E-dVFes",
+      "id": 11,
+      "lighting": "10",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1wVfkQB-EgZEhl_q3vB1dNifu_4RdC5nP",
+      "id": 11,
+      "lighting": "10",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1FYKjAjcLUz87-altLsJ9yHvDV7WGXTED",
+      "id": 11,
+      "lighting": "10",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1_m1ofb-on9AjmlrGlWbdNJVbdM3sehTP",
+      "id": 11,
+      "lighting": "10",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "n"
+    }
+  ],
+  "12": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1Fp85EVAGogtYR1FxtgzUG6glWf4BeYhW",
+      "id": 12,
+      "lighting": "10",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1j4AIMAGLnTgsWVKESGzzzne5nl5D2h-d",
+      "id": 12,
+      "lighting": "10",
+      "description": "Color chart, SLOAN and person at 20 ft",
+      "ir": "y"
+    }
+  ],
+  "13": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1pXmftF0TeaxWYDagbG5k560e-FQDwkG3",
+      "id": 13,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1RwxO35iw9TCVMPzcWjg5vIWQPzStxCnN",
+      "id": 13,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1an8Uj89m8v0M_D1waTipRx1Huxxo6fLe",
+      "id": 13,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1UxFX5qG5dolZg9-mpsokXhlvaTSrzuAp",
+      "id": 13,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1e4mqcOSu-PzKDU-pbbhslcy3V0aPmhEE",
+      "id": 13,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. Place all three subjects (SLOAN, color chart, person) between the two floodlights.",
+      "ir": "n"
+    }
+  ],
+  "14": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1iw7J09XZGngSPv91XtzAmFSq7GfqwyWb",
+      "id": 14,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1W1b8bBzQ6s11Y--cFFTE8OGYHvJXh6XV",
+      "id": 14,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1wlgrad37ghKH5-98Q3OLRt0TT3QBCtGY",
+      "id": 14,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1eobq966elOa4VeCxur2BLEM9WNxEwRu_",
+      "id": 14,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1_jTmYSMBTM2BO3ewObqd8wdqFtMICY_p",
+      "id": 14,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    }
+  ],
+  "15": [
+    {
+      "camera": "Axis",
+      "gdrive_id": null,
+      "id": 15,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1YXLg--dhQghqL3d_TlzZ0flOPOcy9o9Y",
+      "id": 15,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": null,
+      "id": 15,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": null,
+      "id": 15,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": null,
+      "id": 15,
+      "lighting": "310",
+      "description": "set the two flood lights 20 ft away, facing the camera. Leave a 5 ft gap between the lights. capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away. Do his without ambient light",
+      "ir": "n"
+    }
+  ],
+  "16": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1SGPGBM5kewr4yCbzRcrTS8k3KuzkxLTE",
+      "id": 16,
+      "lighting": "0.1",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1sSFMN9RgH41Ack8QwPHl4toOK-yV0XCK",
+      "id": 16,
+      "lighting": "0.1",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1_Dvqxgpe137cXFg3uEazDjb0ea0tQ2jb",
+      "id": 16,
+      "lighting": "0.1",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1uF-_dqiH_tXvskZToknHZdxHpJjvsEgX",
+      "id": 16,
+      "lighting": "0.1",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1cMuoQb0DX44kbr-UMbuoYcuFh-sQO3az",
+      "id": 16,
+      "lighting": "0.1",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    }
+  ],
+  "17": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1ysMhKLIEl8WZ-GuwNVj6OU-vUJPTcZy5",
+      "id": 17,
+      "lighting": "0.1",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1y16gl53QlUrYQUzVqQ83XF5BGqz7V7Fq",
+      "id": 17,
+      "lighting": "0.1",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "y"
+    }
+  ],
+  "18": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1M6a9LU_WlpOEVO1sdOCVRsjKHcKuhWdT",
+      "id": 18,
+      "lighting": "5",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1-qcgwIeB-aKKPN4876UKK7xUrmr5qoIq",
+      "id": 18,
+      "lighting": "5",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1Iu1EfLJeHXa_JjDllOpr4-4cYTW-A6Qi",
+      "id": 18,
+      "lighting": "5",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1vJurSPq0d2-cwRqFMI4j0Qtn5R3tj9Yf",
+      "id": 18,
+      "lighting": "5",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1WiUEC6ezI_au_0h3I4fXktTtXZvN71U1",
+      "id": 18,
+      "lighting": "5",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "n"
+    }
+  ],
+  "19": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1MypfVfnqdCmO7k3TIUOi_xsSDUAeejEr",
+      "id": 19,
+      "lighting": "5",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "y"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1Te8pv5D3VoVtNM7divX0yjCCQKAPuWkI",
+      "id": 19,
+      "lighting": "5",
+      "description": "capture a video of a person walking past the cameras holding the SLOAN chart, starting at 20 ft away.",
+      "ir": "y"
+    }
+  ],
+  "20": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1trMoN4_Qj6rcwCSOHmtkgjWLLSku7EkM",
+      "id": 20,
+      "lighting": "TBD",
+      "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1vB1T6RgYJtf6zrmMJLaJG1hKovBnLq4O",
+      "id": 20,
+      "lighting": "TBD",
+      "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1T-HAzKTL7PPchgBkOmDlhMyL-z_yinWA",
+      "id": 20,
+      "lighting": "TBD",
+      "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1uXhZv2HW6MxM04QiKPT79yJOb8IPqreU",
+      "id": 20,
+      "lighting": "TBD",
+      "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1GpPVjHLsnsMEFbc_7wrVYzr0Bs5_cQAr",
+      "id": 20,
+      "lighting": "TBD",
+      "description": "Sun blur with out of fov light causing lens flare. SLOAN, color chart and person",
+      "ir": "n"
+    }
+  ],
+  "21": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1X_VUUC6w7spjdtTzGTRXC6criQhdzBMh",
+      "id": 21,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1ytmgSYzUh_YlHMXFLbRlYHFwf6uSLzK5",
+      "id": 21,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1hDABYWe4Frraj2Strs3ruwosfVxd0LJm",
+      "id": 21,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "197lyAm684eN-qNT4rotl7mw0minvC_Yj",
+      "id": 21,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1ougB3MkJLTB4Nwiz7QKeYgChxAmiPszd",
+      "id": 21,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    }
+  ],
+  "22": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1RheIIH2s5RSWn_NWiNKOEYNb8TyeCbjG",
+      "id": 22,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1QE_D4jp30H5IkQ-CFucln0C0tDE3zuZd",
+      "id": 22,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1QqgNPHyQwv9j8qK46wD3WE18JhpdGj23",
+      "id": 22,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1tzpYV7sOVIPM0OkLSnX-huiZMO4an3v1",
+      "id": 22,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1E1989-HHUTQs4rtA9rb57YyURvBaEC7e",
+      "id": 22,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    }
+  ],
+  "23": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1SsXcva3ULX97691tGevxNvW2xPXNAJB0",
+      "id": 23,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1sVZjZFd9rZ0QAYftB59ZnkrirvaVn7Dd",
+      "id": 23,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1cDIOG2ahsa2VBF78KLo0iCWjs00ULJ4j",
+      "id": 23,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1AMvVH1A-t4cgut9D5l5XLHtFylFwfj5-",
+      "id": 23,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1gd1tsMKcqEoZf9R46AxxJIV6uYMmlMj2",
+      "id": 23,
+      "lighting": "700 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    }
+  ],
+  "24": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1KPW1iFRglgTPQaXkRlsUPpdjSVrrU_T_",
+      "id": 24,
+      "lighting": "700 inside, 7000 outside",
+      "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1Tc-VdHU0osDnvbnHajqHonehkyZojvW2",
+      "id": 24,
+      "lighting": "700 inside, 7000 outside",
+      "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1k_Xo_q9Ldju17LUaAUg3N2GJYu-PmtdS",
+      "id": 24,
+      "lighting": "700 inside, 7000 outside",
+      "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1I_7PAGAjakbe8yZqiDiB3ksvVR5labWO",
+      "id": 24,
+      "lighting": "700 inside, 7000 outside",
+      "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1EAYG8vQJDFLacdg6g0EUFO7croadEjR0",
+      "id": 24,
+      "lighting": "700 inside, 7000 outside",
+      "description": "record a video of the human opening the door and walking through. The amount of light should change dramatically as the door opens.",
+      "ir": "n"
+    }
+  ],
+  "25": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1lv3zSZpoQ6aVCikEorZkEftZq-EzGMFj",
+      "id": 25,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1ON2mneT5gTb-Y2wcYqsojQhlrC5ofVdA",
+      "id": 25,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1GSdhts3Y4BT9y1tMM7VcQX0-blKp8bXr",
+      "id": 25,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1S38AY-Ci6Aw6TpoAnYwLRW4MCcFnx9FE",
+      "id": 25,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1pKcm8xnJqwegnR2NDPJS3-hytmVAH383",
+      "id": 25,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the SLOAN chart, standing in the middle of the door frame. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    }
+  ],
+  "26": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1hoZS2pfrACdmbRoioKgkSvZxdLe_bdtu",
+      "id": 26,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1CHTbntB2mYXBbs1TPrpT98FeMOz87C3-",
+      "id": 26,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1qsEGjDGwOqtu1dTTJgNoqSDULsXtnKIE",
+      "id": 26,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1aFTdKMSvtdSdi79hZCrAAXeYWi12qe12",
+      "id": 26,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1PP9uz38BGzRpjN3nfWrPOG-QxcFCgJSu",
+      "id": 26,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room in front of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    }
+  ],
+  "27": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1qP9LUU_Iz8KoDSimR0oXoL2XzAPb-hoN",
+      "id": 27,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "13KNtxjCPd_5YemUN7ZNBKm4awYd3OgEZ",
+      "id": 27,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1cgYz3Fe2YVhamTrYGzUOtzYqRdigghhy",
+      "id": 27,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1tNcADzvq6sva8ROi9QFROD95bg4np1Bu",
+      "id": 27,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1eGYqFac0B-xuU_kPwa73MxuttXxe8ima",
+      "id": 27,
+      "lighting": "120 & 7000",
+      "description": "During the day, position the camera such that it is facing the door around 10 ft away, with the door open. Let a human hold the charts inside of the room to the left of the door. Repeat this with the color chart. The interior should be ~120 lux, whilst the backlight should be ~7000 lux.",
+      "ir": "n"
+    }
+  ],
+  "28": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1qY24i4J5oMQCYwwCha-wzzJA9dQjl5yl",
+      "id": 28,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1G5jidMohITcLxfSU-Nn2xugmFFi7NW39",
+      "id": 28,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1sBT6lgyg0SZvER9X1-2u4PFd8_tzKnuq",
+      "id": 28,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1c6T0O9XYibiD5K6M2NAwgiK-9JzK0qOR",
+      "id": 28,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1CTbVKhw8Crt5HzOWbPOLuWDYVuZol77X",
+      "id": 28,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 20 ft.",
+      "ir": "n"
+    }
+  ],
+  "29": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "1A8bb2ZhAel2Dzxs6RZn98LkgYMb-dRRa",
+      "id": 29,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1f293NRKOXEMXiNMW7CCLtVVFHFLtdeqr",
+      "id": 29,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1b40azbbFnXwDWgg_NyUB7nRJQA4LEJnt",
+      "id": 29,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1C6KwgQPezLFlMDNt8QUyUVuRU9H7s2F6",
+      "id": 29,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1EPdwds0dgAMoAoiZEL2MWgSOyViSm9ht",
+      "id": 29,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 50 ft.",
+      "ir": "n"
+    }
+  ],
+  "30": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "15nyU6uBKe6zKD-dEezt7OkeuzLYKIaJN",
+      "id": 30,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1ciGcys68b6MeliPgYgnIuaCuMBD3HwPB",
+      "id": 30,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1MvzLJEXitJo3j0HWRoMQYG9CBBCgGI0j",
+      "id": 30,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1XepXsWPqrQ5-7NPvB8dNFI8eV7vM3WqP",
+      "id": 30,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1XdX7RYpnXvogVshAxRZs-5iNttBfHa34",
+      "id": 30,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 75 ft.",
+      "ir": "n"
+    }
+  ],
+  "31": [
+    {
+      "camera": "Axis",
+      "gdrive_id": "11wpP6GZnaFhoZxMhRlveeqczbpdJFu-y",
+      "id": 31,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "Avigilon",
+      "gdrive_id": "1vZIsQQoGHKXcVQ4B47GvgKPeEuIh-DFQ",
+      "id": 31,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 290",
+      "gdrive_id": "1hjCuwauieakQcjqrctZkJ0yVbIqzTMUW",
+      "id": 31,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Narrow",
+      "gdrive_id": "1kjleytUtVzIajM25TqLr_-HjFuzjMYd2",
+      "id": 31,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
+      "ir": "n"
+    },
+    {
+      "camera": "IMX 335 Wide",
+      "gdrive_id": "1bJ31niHRfF_ljPbWkuIhYDJQLLWdZdgU",
+      "id": 31,
+      "lighting": "outside",
+      "description": "during the day, capture the color chart, SLOAN chart, and subject separately at 125 ft.",
+      "ir": "n"
+    }
+  ]
+}

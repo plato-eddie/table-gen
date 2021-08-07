@@ -1,3 +1,4 @@
 snapshots
 credentials.json
 scripts/token.json
+__pycache__
