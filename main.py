@@ -22,7 +22,7 @@ from pylatex.utils import escape_latex, NoEscape
 
 # import data
 
-with open("./experiment.json", "r") as fin:
+with open("./experiment_gdrive_added.json", "r") as fin:
     experiment_data = json.load(fin)
 
 snapshot_names = {
@@ -67,6 +67,14 @@ def generate_shootout_table():
 
         for capture in experiment_data:
             for i, camera_data in enumerate(experiment_data[capture]):
+                if camera_data["gdrive_id"] is None:
+                    camera_data["gdrive_id"] = ""
+                    print(capture, camera_data)
+
+                if camera_data["gdrive_id"]:
+                    gdrive_url = f'https://drive.google.com/file/d/{camera_data["gdrive_id"]}/view?usp=sharing'
+                else:
+                    gdrive_url = ""
                 if i == 0:
                     r = [
                         capture,
@@ -74,7 +82,10 @@ def generate_shootout_table():
                             image_options="width=100px",
                             filename=f"./snapshots/thumbnail_{capture}_{snapshot_names[camera_data['camera']]}.jpg",
                         ),
-                        hyperlink("https://google.com", camera_data["camera"]),
+                        hyperlink(
+                            gdrive_url,
+                            camera_data["camera"],
+                        ),
                         camera_data["description"],
                         camera_data["lighting"],
                         camera_data["ir"],
@@ -86,7 +97,10 @@ def generate_shootout_table():
                             image_options="width=100px",
                             filename=f"./snapshots/thumbnail_{capture}_{snapshot_names[camera_data['camera']]}.jpg",
                         ),
-                        hyperlink("https://google.com", camera_data["camera"]),
+                        hyperlink(
+                            gdrive_url,
+                            camera_data["camera"],
+                        ),
                         "",
                         "",
                         "",
