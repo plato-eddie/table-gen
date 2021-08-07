@@ -25,14 +25,6 @@ with open("./experiment.json", "r") as fin:
     experiment_data = json.load(fin)
 
 
-experiment_data_grouped = {}
-for dat in experiment_data:
-    if not experiment_data_grouped.get(dat.get("id")):
-        experiment_data_grouped[dat.get("id")] = []
-    experiment_data_grouped[dat.get("id")].append(dat)
-
-
-
 
 
 def hyperlink(url, text):
