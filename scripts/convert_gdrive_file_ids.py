@@ -13,8 +13,8 @@ def find_camera(array, name):
 
 
 snapshot_names = {
-    "avig": "Axis",
-    "axis": "Avigilon",
+    "avig": "Avigilon",
+    "axis": "Axis",
     "290": "IMX 290",
     "narrow_335": "IMX 335 Narrow",
     "wide_335": "IMX 335 Wide",

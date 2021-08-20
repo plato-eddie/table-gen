@@ -26,8 +26,8 @@ with open("./experiment_gdrive_added.json", "r") as fin:
     experiment_data = json.load(fin)
 
 snapshot_names = {
-    "Axis": "avig",
-    "Avigilon": "axis",
+    "Axis": "axis",
+    "Avigilon": "avig",
     "IMX 290": "290",
     "IMX 335 Narrow": "narrow_335",
     "IMX 335 Wide": "wide_335",
